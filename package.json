@@ -1,0 +1,21 @@
+{
+  "name": "judging-test",
+  "version": "1.0.0",
+  "description": "My first cypress app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alenademchenkoa/testJS.git"
+  },
+  "author": "Alena D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alenademchenkoa/testJS/issues"
+  },
+  "homepage": "https://github.com/alenademchenkoa/testJS#readme",
+  "dependencies": {
+    "cypress": "^12.16.0"
+  }
+}
